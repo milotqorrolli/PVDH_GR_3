@@ -209,9 +209,9 @@ venv/
 # ================================
 # Data & Large Files
 # ================================
-data/raw/
-data/interim/
-data/processed/
+# data/raw/
+# data/interim/
+# data/processed/
 *.csv
 *.parquet
 *.zip
